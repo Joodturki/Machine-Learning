@@ -15,3 +15,7 @@ Condition: The current condition of the house is critical, as well-maintained ho
 Garage: Availability of a garage can increase the price due to added convenience and space.
 
 Price: The target variable, representing the sale price of the house.
+
+[House Price Prediction Dataset.csv](https://github.com/user-attachments/files/25442198/House.Price.Prediction.Dataset.csv)
+[Lab3-EDA.ipynb](https://github.com/user-attachments/files/25442208/Lab3-EDA.ipynb)
+[House Price Prediction Dataset.txt](https://github.com/user-attachments/files/25442218/House.Price.Prediction.Dataset.txt)

@@ -1,1 +1,1 @@
-This lab uses KNN to predict the target class.
+This lab use KNN to predict the target class.
